@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-barcode",
+  "version": "1.0.0",
+  "description": "Cordova barcode scanner write with swift",
+  "cordova": {
+    "id": "cordova-plugin-barcode",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jumplee/cordova-plugin-barcode"
+  },
+  "keywords": [
+    "cordova",
+    "barcode",
+    "swift3.0",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "jumplee",
+  "license": "Apache-2.0",
+  "devDependencies": {
+
+  }
+}
