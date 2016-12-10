@@ -24,7 +24,7 @@
   <license>Apache 2.0</license>
   <keywords>cordova,barcode,swift</keywords>
   <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-file-transfer.git</repo>
-  <js-module src="www/cordova-plugin-barcode/barcode.js" name="FileTransfer">
+  <js-module src="www/cordova-plugin-barcode/barcode.js" name="barcode">
     <clobbers target="cordova.plugins.barcodeScanner" />
   </js-module>
   <!-- ios -->
